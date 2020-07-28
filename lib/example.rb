@@ -13,4 +13,6 @@ puts phrase
 puts phrase
 puts phrase
 puts phrase
-exit
+end
+
+say_hello_ten_times
