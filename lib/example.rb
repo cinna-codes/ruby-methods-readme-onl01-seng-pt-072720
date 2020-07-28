@@ -1,6 +1,6 @@
 # Use this space to code along with the readme
 
-phrase = "Hello World!"
+phrase = "Hello World"
 
 def say_hello_ten_times
   puts phrase
